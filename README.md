@@ -29,7 +29,7 @@
 26. [제일 작은 수 제거하기](https://github.com/heewonchoii/programmers/blob/master/126_rm%20small.ipynb)
 27. [정수 제곱근 판별](https://github.com/heewonchoii/programmers/blob/master/127_next%20square.ipynb)
 28. [정수 내림차순으로 배치하기](https://github.com/heewonchoii/programmers/blob/master/128_sort%20num.ipynb)
-29. [자연수 뒤집어 배열로 만들기](https://github.com/heewonchoii/programmers/blob/master/129_reverse%20digit.ipynb)
+29. [자연수 뒤집어 배열로 만들기](https://github.com/heewonchoii/programmers/blob/master/129_digit%20reverse.ipynb)
 30. [자릿수 더하기](https://github.com/heewonchoii/programmers/blob/master/130_sum%20digit.ipynb)
 31. [약수의 합](https://github.com/heewonchoii/programmers/blob/master/131_sum%20divisor.ipynb)
 32. [수박](https://github.com/heewonchoii/programmers/blob/master/132_watermelon.ipynb)
@@ -49,4 +49,17 @@
 46. [키패드 누르기](https://github.com/heewonchoii/programmers/blob/master/146_keypad.ipynb)
 
 ## Lv2
-1. 
+1. [짝지어 제거하기](https://github.com/heewonchoii/programmers/blob/master/201_rm%20pair.ipynb)
+2. [가장 큰 수](https://github.com/heewonchoii/programmers/blob/master/202_max%20num.ipynb)
+3. [프린터](https://github.com/heewonchoii/programmers/blob/master/203_printer.ipynb)
+4. [문자열 압축](https://github.com/heewonchoii/programmers/blob/master/204_compress%20text.ipynb)
+5. [기능개발](https://github.com/heewonchoii/programmers/blob/master/205_ftn%20develop.ipynb)
+6. [더 맵게](https://github.com/heewonchoii/programmers/blob/master/206_more%20spicy.ipynb)
+7. [뉴스 클러스터링](https://github.com/heewonchoii/programmers/blob/master/207_news%20clustering.ipynb)
+8. [오픈채팅방](https://github.com/heewonchoii/programmers/blob/master/208_open%20chatting.ipynb)
+9. [예상 대진표](https://github.com/heewonchoii/programmers/blob/master/209_expect%20matchups.ipynb)
+10. [수식 최대화](https://github.com/heewonchoii/programmers/blob/master/210_max%20equation.ipynb)
+11. [소수 찾기](https://github.com/heewonchoii/programmers/blob/master/211_find%20prime%cnt.ipynb)
+12. [124 나라의 숫자](https://github.com/heewonchoii/programmers/blob/master/212_change124.ipynb)
+13. [거리두기 확인하기](https://github.com/heewonchoii/programmers/blob/master/213_chk%20dist.ipynb)
+
